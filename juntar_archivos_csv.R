@@ -1,4 +1,4 @@
-####' Para leer varios archivos .csv de un carpeta y junttarlos en un solo archivo.
+####' Para leer varios archivos *.csv de un carpeta y juntarlos en un solo archivo.
 
 library(tidyverse)
 
